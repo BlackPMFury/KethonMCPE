@@ -1,0 +1,12 @@
+name: ketHonMCPE
+main: LoveMCPE\Kethon\Main
+api:
+ - 3.0.0
+ - 3.2.0
+version: 1.0-BETA
+author: BlackPMFury
+commands:
+ love:
+  description: "Love MCPE"
+  usage: /love
+  default: true
